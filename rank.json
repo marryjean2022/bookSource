@@ -80,9 +80,90 @@
 		"coverNeedAppendingUrl":"https:"
 	}
 },{
+    "rankName":"起点女生",
+    "rankSourceUrl":"https://www.qidian.com/rank/",
+    "rankPrimary":2,
+    "cateLevel":2,
+    "header":{
+
+    },
+    "rankType":[
+        {
+            "name":"月票榜",
+            "url":"https://www.qidian.com/rank/mm/yuepiao/",
+            "cate":"全部::year2022-month08-page{{page}}\n古代言请::chn21/year2022-month08-page{{page}}\n现代言情::chn22/year2022-month08-page{{page}}\n幻想榜单::chn23/year2022-month08-page{{page}}\nVIP新作::chn0/year2022-month08-page{{page}}"
+        },
+        {
+            "name":"新书热销榜",
+            "url":"https://www.qidian.com/rank/mm/newsales/",
+            "cate":"全部::page{{page}}/"
+        },
+        {
+            "name":"阅读指数榜",
+            "url":"https://www.qidian.com/rank/mm/readindex/",
+            "cate":"全部::year2022-month08-page{{page}}\n古代言请::chn80/\n仙侠奇缘::chn81/\n现代言情::chn82/\n浪漫青春::chn83/\n玄幻言情::chn84/\n悬疑推理::chn85/\n科幻空间::chn86/\n游戏竞技::chn88/"
+        },
+        {
+            "name":"畅销榜",
+            "url":"https://www.qidian.com/rank/mm/hotsales/",
+            "cate":"全部::page{{page}}/"
+        },
+        {
+            "name":"书友榜",
+            "url":"https://www.qidian.com/rank/mm/newfans/",
+            "cate":"全部::page{{page}}/\n古代言请::chn80/\n仙侠奇缘::chn81/\n现代言情::chn82/\n浪漫青春::chn83/\n玄幻言情::chn84/\n悬疑推理::chn85/\n科幻空间::chn86/\n游戏竞技::chn88/"
+        },
+        {
+            "name":"推荐榜",
+            "url":"https://www.qidian.com/rank/mm/recom/",
+            "cate":"全部::page{{page}}/\n古代言请::chn80/page{{page}}/\n仙侠奇缘::chn81/page{{page}}/\n现代言情::chn82/page{{page}}/\n浪漫青春::chn83/page{{page}}/\n玄幻言情::chn84/page{{page}}/\n悬疑推理::chn85/page{{page}}/\n科幻空间::chn86/page{{page}}/\n游戏竞技::chn88/page{{page}}/"
+        },
+        {
+            "name":"收藏榜",
+            "url":"https://www.qidian.com/rank/mm/collect/",
+            "cate":"全部::page{{page}}/\n古代言请::chn80/page{{page}}/\n仙侠奇缘::chn81/page{{page}}/\n现代言情::chn82/page{{page}}/\n浪漫青春::chn83/page{{page}}/\n玄幻言情::chn84/page{{page}}/\n悬疑推理::chn85/page{{page}}/\n科幻空间::chn86/page{{page}}/\n游戏竞技::chn88/page{{page}}/"
+        },
+        {
+            "name":"总字数榜",
+            "url":"https://www.qidian.com/rank/mm/wordcount/",
+            "cate":"全部::page{{page}}/\n古代言请::chn80/page{{page}}/\n仙侠奇缘::chn81/page{{page}}/\n现代言情::chn82/page{{page}}/\n浪漫青春::chn83/page{{page}}/\n玄幻言情::chn84/page{{page}}/\n悬疑推理::chn85/page{{page}}/\n科幻空间::chn86/page{{page}}/\n游戏竞技::chn88/page{{page}}/"
+        },
+        {
+            "name":"签约作者新书榜",
+            "url":"https://www.qidian.com/rank/mm/signnewbook/",
+            "cate":"全部::page{{page}}/\n古代言请::chn80/page{{page}}/\n仙侠奇缘::chn81/page{{page}}/\n现代言情::chn82/page{{page}}/\n浪漫青春::chn83/page{{page}}/\n玄幻言情::chn84/page{{page}}/\n悬疑推理::chn85/page{{page}}/\n科幻空间::chn86/page{{page}}/\n游戏竞技::chn88/page{{page}}/"
+        },
+        {
+            "name":"公众作者新书榜",
+            "url":"https://www.qidian.com/rank/mm/pubnewbook/",
+            "cate":"全部::page{{page}}/\n古代言请::chn80/page{{page}}/\n仙侠奇缘::chn81/page{{page}}/\n现代言情::chn82/page{{page}}/\n浪漫青春::chn83/page{{page}}/\n玄幻言情::chn84/page{{page}}/\n悬疑推理::chn85/page{{page}}/\n科幻空间::chn86/page{{page}}/\n游戏竞技::chn88/page{{page}}/"
+        },
+        {
+            "name":"新人签约新书榜",
+            "url":"https://www.qidian.com/rank/mm/newsign/",
+            "cate":"全部::page{{page}}/\n古代言请::chn80/page{{page}}/\n仙侠奇缘::chn81/page{{page}}/\n现代言情::chn82/page{{page}}/\n浪漫青春::chn83/page{{page}}/\n玄幻言情::chn84/page{{page}}/\n悬疑推理::chn85/page{{page}}/\n科幻空间::chn86/page{{page}}/\n游戏竞技::chn88/page{{page}}/"
+        },
+        {
+            "name":"新人作者新书榜",
+            "url":"https://www.qidian.com/rank/mm/newauthor/",
+            "cate":"全部::page{{page}}/\n古代言请::chn80/page{{page}}/\n仙侠奇缘::chn81/page{{page}}/\n现代言情::chn82/page{{page}}/\n浪漫青春::chn83/page{{page}}/\n玄幻言情::chn84/page{{page}}/\n悬疑推理::chn85/page{{page}}/\n科幻空间::chn86/page{{page}}/\n游戏竞技::chn88/page{{page}}/"
+        }
+    ],
+    "rankBookInfo" : {
+        "bookList": ".book-img-text ul li",
+        "name":"classbook-mid-info.tagh2.taga@text",
+        "author":"classauthor@text",
+        "bookUrl":"",
+        "cover":"classbook-img-box.tagimg@src",
+        "kind":"",
+        "lastChapter":"classupdate@text",
+        "intro":"classintro@text",
+        "coverNeedAppendingUrl":"https:"
+    }
+},{
     "rankName":"百度热搜",
     "rankSourceUrl":"https://top.baidu.com/board?tab=novel",
-    "rankPrimary":2,
+    "rankPrimary":3,
     "cateLevel":1,
     "header":{
 
@@ -155,7 +236,7 @@
 },{
     "rankName":"纵横网",
     "rankSourceUrl":"https://www.zongheng.com/rank/",
-    "rankPrimary":3,
+    "rankPrimary":4,
     "cateLevel":1,
     "header":{
         "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
