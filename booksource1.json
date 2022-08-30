@@ -1396,4 +1396,64 @@
         "intro":"classresult-game-item-desc@text",
         "lastChapter":"classresult-game-item-info-tag.location3.taga@text"
     }
+},{
+    "bookSourceName":"爱下电子书",
+    "header":{
+        "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+    },
+    "bookSourceUrl":"https://www.aixdzs.com/",
+    "bookPrimary":28,
+    "sourceType":0,
+    "enabled":true,
+    "enabledExplore":true,
+    "exploreUrlList":"综合分类::https://www.aixdzs.com/sort/0/index_0_0_0_{{page}}.html\n玄幻奇幻::https://www.aixdzs.com/sort/1/index_0_0_0_{{page}}.html\n修真仙侠::/sort/2/index_0_0_0_{{page}}.html\n都市青春::/sort/3/index_0_0_0_{{page}}.html\n历史军事::/sort/4/index_0_0_0_{{page}}.html\n网游竞技::/sort/5/index_0_0_0_{{page}}.html\n科幻灵异::/sort/6/index_0_0_0_{{page}}.html\n言情穿越::/sort/7/index_0_0_0_{{page}}.html\n耽美同人::/sort/8/index_0_0_0_{{page}}.html\n台言古言::/sort/9/index_0_0_0_{{page}}.html\n武侠小说::/sort/10/index_0_0_0_{{page}}.html\n古典文学::/sort/11/index_0_0_0_{{page}}.html\n侦探推理::/sort/12/index_0_0_0_{{page}}.html\n外国文学::/sort/13/index_0_0_0_{{page}}.html\n当代现代::/sort/14/index_0_0_0_{{page}}.html\n童话故事::/sort/15/index_0_0_0_{{page}}.html\n传记纪实::/sort/16/index_0_0_0_{{page}}.html\n韩流青春::/sort/17/index_0_0_0_{{page}}.html\n影视文学::/sort/18/index_0_0_0_{{page}}.html\n下载排行::/hot.html?page={{page}}",
+    "lastUpdateTime":1650603647602,
+    "ruleExplore":{
+        "bookList":".box_k ul li",
+        "author":"classl1.taga@text",
+        "bookUrl":"classb_name.taga@href",
+        "cover":"tagimg@src",
+        "intro":"classb_intro@text",
+        "kind":"classcp@text",
+        "name":"classb_name.taga@text"
+    },
+    "ruleExploreHeader":{
+        "url":"https://www.aixdzs.com/",
+        "id":28,
+        "bookList":".box_l ul li",
+        "author":"classl_intro.tagp.taga@text",
+        "bookUrl":"classl_intro.tagh3.taga@href",
+        "cover":"tagimg@src",
+        "name":"classl_intro.tagh3.taga@text"
+    },
+    "ruleBookInfo":{
+        "name": "classd_info.tagh1@text",
+        "author": "classd_ac.tagli.location0.taga@text",
+        "cover": "classd_info.classd_af.tagimg@src",
+        "bookUrl": "",
+        "intro": "classd_intro.classd_co@text",
+        "kind": "classd_av.location0.taga@text||classd_av.location1.taga@text",
+        "lastChapter": "classd_av.location2.taga@text",
+        "lastUpdateTime" : ""
+    },
+    "ruleDetailList":{
+        "chapterList":"#i-chapter .chapter",
+        "chapterName":"text",
+        "chapterUrl":"taga@href"
+    },
+    "ruleContent":{
+        "content":"classcontent@html",
+        "replaceRegex":""
+    },
+    "searchUrl":"https://www.aixdzs.com/bsearch?q={{key}}^{\"charset\":  \"utf8\",\"method\": \"get\",\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36\" }}",
+    "ruleSearch":{
+        "bookList":".box_k ul li",
+        "author":"classb_info.classl1.taga@text",
+        "bookUrl":"classlist_info.classb_name.taga@href",
+        "cover":"classlist_img.tagimg@src",
+        "name":"classlist_info.classb_name.taga@text",
+        "kind":"classb_info.classl3.classcp@text",
+        "intro":"classb_intro@text",
+        "lastChapter":"classb_info.location1.taga@text"
+    }
 }]
