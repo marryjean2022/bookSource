@@ -1515,4 +1515,125 @@
         "intro":"classc.tagp.location3@text",
         "lastChapter":""
     }
+},{
+    "bookSourceName":"22中文",
+    "header":{
+        "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+    },
+    "bookSourceUrl":"https://www.999xs.net/",
+    "bookPrimary":31,
+    "sourceType":0,
+    "enabled":true,
+    "enabledExplore":true,
+    "exploreUrlList":"玄幻小说::https://www.999xs.net/xuanhuan/\n修真小说::https://www.999xs.net/xiuzhen/\n都市小说::https://www.999xs.net/dushi/\n历史小说::https://www.999xs.net/lishi/\n网游小说::https://www.999xs.net/wangyou/\n科幻小说::https://www.999xs.net/kehuan/\n言情小说::https://www.999xs.net/yanqing/\n其他::https://www.999xs.net/qita/",
+    "lastUpdateTime":1650603647602,
+    "ruleExplore":{
+        "bookList":"#newscontent .l li",
+        "author":"classs5@text",
+        "bookUrl":"classs2.taga@href",
+        "cover":"classs2.taga@href##/files/article/html/(.*?)/(.*?)/||/img/$1/$2.jpg",
+        "intro":"classs3@text",
+        "kind":"",
+        "name":"classs2.taga@text"
+    },
+    "ruleExploreHeader":{
+        "url":"https://www.999xs.net/",
+        "id":31,
+        "bookList":"#hotcontent .l .item",
+        "author":"tagdl.tagdt.tagspan@text",
+        "bookUrl":"tagdl.tagdt.taga@href",
+        "cover":"tagimg@src",
+        "name":"tagdl.tagdt.taga@text"
+    },
+    "ruleBookInfo":{
+        "name": "selector[property=\"og:novel:book_name\"]@content",
+        "author": "selector[property=\"og:novel:author\"]@content",
+        "cover": "selector[property=\"og:image\"]@content",
+        "bookUrl": "selector[property=\"og:url\"]@content",
+        "intro": "selector[property=\"og:description\"]@content",
+        "kind": "selector[property=\"og:novel:category\"]@content",
+        "lastChapter": "selector[property=\"og:novel:latest_chapter_name\"]@content",
+        "lastUpdateTime" : ""
+    },
+    "ruleDetailList":{
+        "chapterList":"#list dd",
+        "chapterName":"text",
+        "chapterUrl":"taga@href"
+    },
+    "ruleContent":{
+        "content":"idcontent@html",
+        "replaceRegex":"无尽的昏迷过后，时宇猛地从床上起身。想要看最新章节内容，请下载爱阅小说app(?s).*"
+    },
+    "searchUrl":"https://www.999xs.net/search.php?keyword={{key}}^{\"charset\":  \"other\",\"method\": \"get\"}",
+    "ruleSearch":{
+        "bookList":".result-list .result-item",
+        "author":"classresult-game-item-info.tagp.location0.tagspan.location1@text",
+        "bookUrl":"tagh3.taga@href",
+        "cover":"tagimg@src",
+        "name":"tagh3@text",
+        "kind":"classresult-game-item-info.tagp.location1.tagspan.location1@text",
+        "intro":"classresult-game-item-desc@text",
+        "lastChapter":"classresult-game-item-info.tagp.location3.tagspan.location1@text"
+    }
+},{
+    "bookSourceName":"笔趣读",
+    "header":{
+        "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+    },
+    "bookSourceUrl":"https://www.biqudu.net/",
+    "bookPrimary":32,
+    "sourceType":0,
+    "enabled":true,
+    "enabledExplore":true,
+    "exploreUrlList":"玄幻奇幻::https://www.biqudu.net/biquge_1/\n武侠仙侠::https://www.biqudu.net/biquge_2/\n都市言情::https://www.biqudu.net/biquge_3/\n历史军事::https://www.biqudu.net/biquge_4/\n科幻灵异::https://www.biqudu.net/biquge_5/\n网游竞技::https://www.biqudu.net/biquge_6/\n女生频道::https://www.biqudu.net/biquge_7/",
+    "lastUpdateTime":1650603647602,
+    "ruleExplore":{
+        "bookList":"#newscontent .l li",
+        "author":"classs4@text",
+        "bookUrl":"classs2.taga@href",
+        "cover":"classs2.taga@href##/(.*?)_(.*?)/||/bookfiles/BookImages/$2.jpg",
+        "intro":"classs3@text",
+        "kind":"",
+        "name":"classs2.taga@text"
+    },
+    "ruleExploreHeader":{
+        "url":"https://www.biqudu.net/",
+        "id":32,
+        "bookList":"#hotcontent .l .item",
+        "author":"tagdl.tagdt.tagspan@text",
+        "bookUrl":"tagdl.tagdt.taga@href",
+        "cover":"tagimg@src",
+        "name":"tagdl.tagdt.taga@text"
+    },
+    "ruleBookInfo":{
+        "name": "selector[property=\"og:novel:book_name\"]@content",
+        "author": "selector[property=\"og:novel:author\"]@content",
+        "cover": "selector[property=\"og:image\"]@content",
+        "bookUrl": "selector[property=\"og:url\"]@content",
+        "intro": "selector[property=\"og:description\"]@content",
+        "kind": "selector[property=\"og:novel:category\"]@content",
+        "lastChapter": "selector[property=\"og:novel:latest_chapter_name\"]@content",
+        "lastUpdateTime" : ""
+    },
+    "ruleDetailList":{
+        "chapterList":"#list dd!12",
+        "chapterName":"text",
+        "chapterUrl":"taga@href"
+    },
+    "ruleContent":{
+        "content":"idcontent@html",
+        "replaceRegexWithTag": "<script>.*</script>||<div(?s).*</div>",
+        "replaceRegex":""
+    },
+    "searchUrl":"https://www.biqudu.net/searchbook.php?keyword={{key}}^{\"charset\":  \"other\",\"method\": \"get\"}",
+    "ruleSearch":{
+        "bookList":".novelslist2 li!",
+        "author":"classs4@text",
+        "bookUrl":"classs2.taga@href",
+        "cover":"classs2.taga@href##/(.*?)_(.*?)/||/bookfiles/BookImages/$2.jpg",
+        "name":"classs2.taga@text",
+        "kind":"",
+        "intro":"classs3.taga@text",
+        "lastChapter":"classs3.taga@text"
+    }
 }]
