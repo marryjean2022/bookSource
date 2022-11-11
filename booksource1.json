@@ -1562,7 +1562,7 @@
     },
     "ruleContent":{
         "content":"idcontent@html",
-        "replaceRegex":"无尽的昏迷过后，时宇猛地从床上起身。想要看最新章节内容，请下载爱阅小说app(?s).*"
+        "replaceRegex":"无尽的昏迷过后，时宇猛地从床上起身。想要看最新章节内容，请下载爱阅小说app(?s).*||有的人死了，但没有完全死……||最新章节||www.999xs.net||999xs.net"
     },
     "searchUrl":"https://www.999xs.net/search.php?keyword={{key}}^{\"charset\":  \"other\",\"method\": \"get\"}",
     "ruleSearch":{
